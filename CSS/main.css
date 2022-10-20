@@ -1,0 +1,45 @@
+.superior {
+    padding-inline: 2.4rem;
+    padding-block: 3.2rem;
+    border-radius: 0.5rem;
+    color: white;
+}
+
+.p1 {
+    font-weight: 700;
+    line-height: 2.0rem;
+    color: #c0df34;
+    margin-bottom: 1.6rem;
+}
+
+.p2{
+    line-height: 2.6rem;
+    color:#98a6bd;
+    font-size: 1.4rem;
+}
+
+.esquerda {
+    background-color: #2ab2af;
+    padding: 2.4rem 2.4rem 2.4rem 2.4rem ;
+    
+}
+
+.pesquerda {
+    color: white;
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 3.8rem;
+}
+
+.p2esquerda {
+    color: white;
+    opacity: 0.5;
+
+}
+.p1esquerda {
+    color: white;
+}
+
+.esquerda2 {
+    position: absolute;
+}
