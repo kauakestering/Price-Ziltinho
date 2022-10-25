@@ -2,7 +2,7 @@
     padding-inline: 2.4rem;
     padding-block: 3.2rem;
     border-radius: 0.5rem;
-    color: white;
+    background-color: white;
 }
 
 .p1 {
@@ -26,20 +26,43 @@
 
 .pesquerda {
     color: white;
-    font-size: 3.2rem;
-    font-weight: 700;
-    line-height: 3.8rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 2.6rem;
+    display: flex;
+    margin-top: -3rem;
+
 }
 
 .p2esquerda {
     color: white;
     opacity: 0.5;
-
+    display: flex;
+    font-size: 1.6rem;
 }
 .p1esquerda {
     color: white;
+    display: flex;
+    margin-right: 1.2rem;
+    font-size: 3.2rem;
+    margin-top: -2rem;
 }
 
 .esquerda2 {
-    position: absolute;
+    display: flex;
+}
+
+
+
+
+.direita {
+    background-color: #4ABFBD;
+    padding: 2.4rem 2.4rem 2.4rem 2.4rem;
+    border-radius: 0.5rem;
+}
+.direita p {
+    line-height: 2rem;
+    font-size: 1.4rem;
+    color: white;
+    opacity: 0.75;
 }
